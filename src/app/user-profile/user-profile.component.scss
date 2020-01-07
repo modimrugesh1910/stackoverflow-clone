@@ -1,0 +1,75 @@
+@import '../../theme/theme';
+@import "./../question/question.component";
+
+.avatar-card {
+  background-image: url('~assets/useravatar.png');
+  background-size: cover;
+  width: 164px;
+  height: 164px;
+}
+
+.grid__center {
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center;
+}
+
+.floatLeft {
+  float: left;
+  box-shadow: inset 0 10em 0 #eff0f1 !important;
+  border: 1px solid #e4e6e8;
+  padding: 12px !important;
+}
+
+.profile-card {
+  padding: 22px;
+  height: 235px;
+}
+
+.fs-fine {
+  font-size: 11px !important;
+  margin-left: 7px;
+}
+
+.fc-dark {
+  color: #000;
+}
+
+.grid-box {
+  padding: 3px;
+}
+
+.profile-details {
+  padding-left: 36px;
+  margin: -20px 33px;
+}
+
+.top-tag-val {
+  text-align: end;
+  width: 100%;
+  margin-right: 20%;
+}
+
+.mat-tab-label {
+  color: white !important;
+}
+
+.profile-lable {
+  font-size: large;
+  font-weight: 600;
+  color: white;
+}
+
+.mat-tab-label {
+  font-size: large;
+  font-weight: 600;
+  color: white;
+}
+
+.mat-chip-list-wrapper {
+  display: block !important;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: -4px;
+}
