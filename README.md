@@ -8,7 +8,7 @@ please make sure to install latest Angular-cli version.
 
 browse app on http://localhost:4200/auth/question
 
-else there is dist folder available run node server.js and browse app on http://localhost:3000/auth/question
+After running production script line thee is dist folder available run node server.js and browse app on http://localhost:3000/auth/question
 
 ## Production Build
 

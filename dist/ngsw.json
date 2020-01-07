@@ -1,0 +1,114 @@
+{
+  "configVersion": 1,
+  "timestamp": 1578365934778,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/1.8d9a234197f039efb670.js",
+        "/10.08418fcc57a61278b5fd.js",
+        "/2.224ca8964d3770af9789.js",
+        "/7.5d92c7b37610fd682253.js",
+        "/8.eb792dc6b15addc35e42.js",
+        "/9.2f5176fe2e1f55b4fc1a.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.7b724249873c23c43939.js",
+        "/polyfills-es5.5062f6afdd901f42134d.js",
+        "/polyfills.480d69a9f3f8287fe92a.js",
+        "/runtime.f56f7ecffd8598ad33d0.js",
+        "/styles.68886c3bc7dd779698f2.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/bankAccount.json",
+        "/assets/bg20.jpg",
+        "/assets/diagram.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/avatars/noavatar.png",
+        "/assets/img/single_user.png",
+        "/assets/img/users.png",
+        "/assets/login1.jpg",
+        "/assets/login1.png",
+        "/assets/login11.jpg",
+        "/assets/logo.png",
+        "/assets/noavatar.png",
+        "/assets/profile.jpg",
+        "/assets/useravatar.png",
+        "/useravatar.b87447e25b862dfd5166.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/1.8d9a234197f039efb670.js": "3e3866cda3b33b6ad99037d43df780b8e5ff07c3",
+    "/10.08418fcc57a61278b5fd.js": "8d4e986ad8af2a39e992942e788b850849312760",
+    "/2.224ca8964d3770af9789.js": "dc861811003e11539377a29c98104c6ac4b4d8f6",
+    "/7.5d92c7b37610fd682253.js": "ef49a7658ef11512a8ed86afd4b9b1b635eff7eb",
+    "/8.eb792dc6b15addc35e42.js": "110a6e60f153f375d6ecabca0bfd0af01ee1679e",
+    "/9.2f5176fe2e1f55b4fc1a.js": "87b7825b6d7281c986f4ccc0076cabec42dbc4bd",
+    "/assets/bankAccount.json": "41ae720d45c523c11bd12826b858f8d05d789868",
+    "/assets/bg20.jpg": "93167227df22bb7d12111a370f3e801869fae094",
+    "/assets/diagram.svg": "34484c07a0de3c315bdfde10b9a359062dbb2ab1",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/avatars/noavatar.png": "e05578b6533d433ace16706a5490429d318c3ab9",
+    "/assets/img/single_user.png": "646debe6e5ce9d75f77617c094164ae89fd1c5e4",
+    "/assets/img/users.png": "9d04849ed7f0ffd5e74fd5bdfa502322f3d48ab8",
+    "/assets/login1.jpg": "07d39269e8073587e2ecc4a5abf50db2e1592e22",
+    "/assets/login1.png": "23e5f62d6457787c1131353d2f668e7dfb994066",
+    "/assets/login11.jpg": "f6870613490d99216a4ca215279028e2fd400fd2",
+    "/assets/logo.png": "ce7e8a33f2aa72707d5068a4196de3bd21c99efc",
+    "/assets/noavatar.png": "1d9c7e75e43c2cdcfee98337c0fa31edee27ed8c",
+    "/assets/profile.jpg": "7ac5443e66163a34db930b5b69364ad909f2563a",
+    "/assets/useravatar.png": "22fa2697bce4dd2eb793185a20a4fa2d94cada90",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "c78e792e346a69dc263f4f71ef9362a2321a8df2",
+    "/main.7b724249873c23c43939.js": "0eea26c1fee3673393dfc172c109b6cf4f5c533e",
+    "/polyfills-es5.5062f6afdd901f42134d.js": "2dc761b634ee905734a42a6be8ac4ee0e9815db1",
+    "/polyfills.480d69a9f3f8287fe92a.js": "e7af099cf9a7f4c9582de85c8f8ad6971763693b",
+    "/runtime.f56f7ecffd8598ad33d0.js": "9a55b4e5ebfe9712acc09468e77606a5b84383e3",
+    "/styles.68886c3bc7dd779698f2.css": "a9983454c53e2bed3301c1b22a738555c84fa913",
+    "/useravatar.b87447e25b862dfd5166.png": "22fa2697bce4dd2eb793185a20a4fa2d94cada90"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
